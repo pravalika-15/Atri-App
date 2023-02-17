@@ -150,6 +150,22 @@ padding-right: 150px;
 display: flex;
 flex-direction: column;
 }
+.p-About.Flex268 {
+display: flex;
+flex-direction: column;
+}
+.p-About.Flex332 {
+display: flex;
+justify-content: space-between;
+margin-top: ;
+margin-bottom: ;
+align-items: center;
+padding-left: 50px;
+padding-right: 50px;
+font-family: DM Sans;
+background-color: #FFF9F3;
+padding-top: 100px;
+}
 .p-About.Flex270 {
 display: flex;
 flex-direction: column;
@@ -175,8 +191,8 @@ display: flex;
 display: flex;
 margin-top: ;
 margin-bottom: ;
-padding-left: 100px;
-padding-right: 100px;
+padding-left: 200px;
+padding-right: 200px;
 column-gap: 40px;
 padding-top: 20px;
 padding-bottom: 20px;
@@ -218,8 +234,8 @@ display: flex;
 display: flex;
 margin-top: ;
 margin-bottom: ;
-padding-left: 100px;
-padding-right: 100px;
+padding-left: 200px;
+padding-right: 200px;
 column-gap: 40px;
 padding-top: 20px;
 padding-bottom: 100px;
@@ -254,14 +270,160 @@ row-gap: 14px;
 .p-About.Flex305 {
 display: flex;
 }
+.p-About.Flex437 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+padding-top: 100px;
+padding-bottom: 100px;
+background-position-y: FFF9F3 FFF9F3px;
+background-color: #FFF9F3;
+align-self: auto;
+}
+.p-About.Flex436 {
+display: flex;
+padding-left: ;
+padding-right: ;
+justify-content: space-between;
+align-items: center;
+column-gap: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+row-gap: 10px;
+padding-top: 0px;
+}
+.p-About.Div45 {
+;
+}
+.p-About.Flex434 {
+display: flex;
+}
+.p-About.Flex433 {
+display: flex;
+}
+.p-About.Flex432 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+width: 310px;
+height: 310px;
+}
+.p-About.Flex430 {
+display: flex;
+flex-direction: row;
+row-gap: 20px;
+column-gap: 20px;
+}
+.p-About.Flex431 {
+display: flex;
+flex-direction: row;
+column-gap: 20px;
+}
+.p-About.Flex435 {
+display: flex;
+}
+.p-About.Flex448 {
+display: flex;
+background-color: #ffffff;
+padding-left: ;
+padding-right: ;
+justify-content: space-between;
+align-items: center;
+align-self: auto;
+}
+.p-About.Flex447 {
+display: flex;
+justify-content: space-between;
+padding-left: 150px;
+padding-right: 150px;
+column-gap: 40px;
+margin-top: ;
+margin-bottom: ;
+font-family: DM Sans;
+height: ;
+width: ;
+align-items: stretch;
+padding-top: 100px;
+padding-bottom: 50px;
+}
+.p-About.Div48 {
+width: 40%;
+height: ;
+align-self: center;
+}
+.p-About.Flex444 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+width: 310px;
+height: 356px;
+}
+.p-About.Flex442 {
+display: flex;
+flex-direction: row;
+column-gap: 20px;
+}
+.p-About.Flex443 {
+display: flex;
+flex-direction: row;
+row-gap: 20px;
+column-gap: 20px;
+}
+.p-About.Flex445 {
+display: flex;
+width: 310px;
+}
+.p-About.Div49 {
+width: ;
+}
+.p-About.Div47 {
+;
+}
+.p-About.Div46 {
+;
+}
+.p-About.Flex441 {
+display: flex;
+}
+.p-About.Flex439 {
+display: flex;
+}
+.p-About.Flex438 {
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 105px;
+height: 263px;
+}
+.p-About.Flex440 {
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 105px;
+height: 263px;
+}
+.p-About.Flex449 {
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+row-gap: 13px;
+width: 50%;
+}
+.p-About.Flex446 {
+display: flex;
+justify-content: flex-start;
+column-gap: 10px;
+}
 .p-About.Flex310 {
 display: flex;
 flex-direction: column;
 padding-left: ;
 padding-right: ;
-padding-top: 50px;
+padding-top: 20px;
 padding-bottom: ;
 margin-bottom: ;
+margin-top: ;
 }
 .p-About.Flex318 {
 display: flex;
@@ -302,17 +464,29 @@ padding-bottom: ;
 .p-About.Flex321 {
 display: flex;
 }
-.p-About.Flex266 {
+.p-About.Flex415 {
 display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 40px;
+margin-bottom: 40px;
+font-family: DM Sans;
+}
+.p-About.Flex413 {
+display: flex;
+justify-content: space-between;
+row-gap: ;
+column-gap: 30px;
+align-items: center;
+}
+.p-About.Flex414 {
+display: flex;
+justify-content: flex-start;
 }
 .p-About.Carousel3 {
 ;
-}
-.p-About.Flex267 {
-display: flex;
-}
-.p-About.Flex325 {
-display: flex;
 }
 .p-About.TextBox182 {
 font-size: 32px;
@@ -492,10 +666,35 @@ align-self: center;
 font-family: DM Sans;
 font-weight: 700;
 font-size: 32px;
+padding-left: 100px;
+padding-right: 100px;
 }
-.p-About.Flex268 {
-display: flex;
-flex-direction: column;
+.p-About.TextBox234 {
+word-wrap: normal;
+font-size: 30px;
+font-family: DM Sans;
+font-weight: 700;
+}
+.p-About.Button33 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 15px;
+border-radius: 20px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+align-self: center;
+box-sizing: content-box;
+font-family: DM Sans;
 }
 .p-About.TextBox202 {
 font-family: DM Sans;
@@ -593,6 +792,231 @@ font-family: DM Sans;
 font-weight: 700;
 font-size: 20px;
 }
+.p-About.Image169 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+}
+.p-About.Image164 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image165 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image166 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image167 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image168 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+}
+.p-About.Image170 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image171 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image172 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.Image173 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-About.TextBox377 {
+padding-bottom: 20px;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-About.TextBox361 {
+font-size: 20px;
+padding-bottom: 20px;
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-About.TextBox362 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox363 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox364 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox365 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox366 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox367 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox368 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox369 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox370 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox371 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox372 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox373 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox374 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox375 {
+padding-top: 3px;
+padding-bottom: 3px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-About.TextBox376 {
+font-size: 20px;
+padding-bottom: 20px;
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-About.Image179 {
+width: 244px;
+height: 33px;
+}
+.p-About.TextBox378 {
+color: #6a6868;
+font-family: DM Sans;
+font-size: ;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.p-About.Image174 {
+width: 30px;
+height: 30px;
+}
+.p-About.Image175 {
+width: 30px;
+height: 30px;
+}
+.p-About.Image176 {
+width: 30px;
+height: 30px;
+}
+.p-About.Image177 {
+width: 30px;
+height: 30px;
+}
+.p-About.Image178 {
+width: 30px;
+height: 30px;
+}
 .p-About.Flex324 {
 display: flex;
 width: 30%;
@@ -625,4 +1049,101 @@ align-self: center;
 right: 100px;
 padding-right: ;
 padding-left: ;
+}
+.p-About.Button57 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 15px;
+border-radius: 20px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 2px;
+border-style: solid;
+border-color: ;
+cursor: pointer;
+user-select: none;
+align-self: center;
+outline-color: #838383;
+outline-width: 3px;
+font-family: DM Sans;
+}
+.p-About.Button58 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 15px;
+border-radius: 20px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+align-self: center;
+box-sizing: content-box;
+font-family: DM Sans;
+}
+.p-About.Image152 {
+padding-right: 10px;
+padding-left: 10px;
+}
+.p-About.TextBox333 {
+align-self: center;
+padding-left: 15px;
+padding-right: 15px;
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+color: #696969;
+cursor: pointer;
+}
+.p-About.TextBox334 {
+align-self: center;
+padding-left: 15px;
+padding-right: 15px;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
+color: #696969;
+cursor: pointer;
+}
+.p-About.TextBox335 {
+padding-left: 15px;
+padding-right: 15px;
+align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
+color: #696969;
+cursor: pointer;
+}
+.p-About.TextBox336 {
+align-self: center;
+padding-left: 15px;
+padding-right: 15px;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
+color: #696969;
+cursor: pointer;
+}
+.p-About.TextBox337 {
+padding-left: 15px;
+padding-right: 15px;
+align-self: center;
+font-size: 18px;
+font-family: DM Sans;
+font-weight: 500;
+color: #696969;
+cursor: pointer;
 }

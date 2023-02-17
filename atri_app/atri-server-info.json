@@ -8,6 +8,9 @@
     },
     "/About": {
       "name": "About"
+    },
+    "/Menu": {
+      "name": "Menu"
     }
   },
   "publicUrlAssetMap": {
